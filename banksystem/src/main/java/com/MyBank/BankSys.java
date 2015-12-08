@@ -349,7 +349,7 @@ class BankSystemPvt implements ActionListener{
 public class BankSys {
 	/**
 	 * @param args
-	 * @author Shantanu 
+	 * @author Ravi 
 	 */
 	
 	JFrame f;
