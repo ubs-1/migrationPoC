@@ -141,7 +141,7 @@ public class Deposit implements ActionListener {
 
 		if(f==0)
 		{
-			JOptionPane.showMessageDialog(frmacc,"Account No is not Present");
+			JOptionPane.showMessageDialog(frmacc,"Account Number is not Present");
 		}
 		if(f==1)
 		{
